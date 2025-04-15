@@ -1,5 +1,6 @@
 # Hello, I'm Olawale, Cybersecurity Consultant
-<a href="www.linkedin.com/in/olawale-alimi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/olawale-alimi"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 I am a skilled Cybersecurity Specialist with years of hands-on experience securing systems, networks, and data across the banking, education, and logistics industries. My expertise spans threat detection, risk assessment, vulnerability management, and security compliance, ensuring robust protection against cyber threats.
