@@ -35,6 +35,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Autopsy-FF6F00?style=for-the-badge&logo=sleuthkit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-006400?style=for-the-badge&logo=wazuh&logoColor=white">
 </div>
 
 ### Vulnerability Assessment & Management
@@ -75,6 +76,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
    <img src="https://img.shields.io/badge/-IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-006400?style=for-the-badge&logo=wazuh&logoColor=white">
 </div>
 
 ## Certifications
