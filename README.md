@@ -15,7 +15,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 | Vulnerablity Scan with Nessus        | <a href="https://github.com/alimi93/Vulnerability-Assessment-with-Nessus-scanner/tree/main">Vulnerability Scan Lab</a>
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Penetration testing                            | <a href="https://github.com/alimi93/Penetration-Testing/tree/main">Web App Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+|Identification of IOCS and network analysis      | <a href="https://github.com/alimi93/Identification-of-potential-Indicators-of-Compromise-/tree/main">Wireshark lap</>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
