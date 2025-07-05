@@ -16,8 +16,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Penetration testing                            | <a href="https://github.com/alimi93/Penetration-Testing/tree/main">Web App Lab</a>|
 |Identification of IOCS and network analysis      | <a href="https://github.com/alimi93/Identification-of-potential-Indicators-of-Compromise-/tree/main">Wireshark Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
