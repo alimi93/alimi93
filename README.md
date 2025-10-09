@@ -17,6 +17,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 | Penetration testing                            | <a href="https://github.com/alimi93/Penetration-Testing/tree/main">Web App Lab</a>|
 |Identification of IOCS and network analysis      | <a href="https://github.com/alimi93/Identification-of-potential-Indicators-of-Compromise-/tree/main">Wireshark Lab</a>|
 |Unmasking Adversaries: Threat Actor Profiling through MISP| <a href="https://github.com/alimi93/Threat-Actor-Profiling-through-MISP">Misp Lab</a>|
+|vulnerability-assessment-and-patch-management| <a href="https://github.com/alimi93/vulnerability-assessment-and-patch-management-/tree/main"> Lab</a>|
 
 
 ## Tools
