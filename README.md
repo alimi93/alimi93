@@ -66,6 +66,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 <img src="https://img.shields.io/badge/-Shodan_Scanner-7D00FF?style=for-the-badge&logo=search&logoColor=white" />
   <img src="https://img.shields.io/badge/-SpiderFoot_OSINT-FF6D37?style=for-the-badge&logo=search&logoColor=white" />
 <div>
+<img src="https://img.shields.io/badge/-MISP_THREAT_INTELLIGENCE-FF6D37?style=for-the-badge&logo=virus&logoColor=white" />
 
 
 ### SIEM
@@ -89,3 +90,6 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Malware Analysis
+- threat detention
+- Cyber Threat Intelligence 
