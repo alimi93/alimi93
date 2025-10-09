@@ -13,7 +13,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerablity Scan with Nessus        | <a href="https://github.com/alimi93/Vulnerability-Assessment-with-Nessus-scanner/tree/main">Vulnerability Scan Lab</a>
-| Detecting Unauthorized Ssh Access Attemps | <a href="https://google.com">Splunk Lab</a>|
+| Detecting Unauthorized Ssh Access Attemps | <a href="https://github.com/alimi93/Detecting-Unauthorized-Ssh-Access-Attempt/tree/main">Splunk Lab</a>|
 | Penetration testing                            | <a href="https://github.com/alimi93/Penetration-Testing/tree/main">Web App Lab</a>|
 |Identification of IOCS and network analysis      | <a href="https://github.com/alimi93/Identification-of-potential-Indicators-of-Compromise-/tree/main">Wireshark Lab</a>|
 
