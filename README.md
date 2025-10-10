@@ -90,9 +90,4 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-006400?style=for-the-badge&logoColor=white" />
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- Malware Analysis
-- threat detention
-- Cyber Threat Intelligence 
+
