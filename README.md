@@ -18,6 +18,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 |Identification of IOCS and network analysis      | <a href="https://github.com/alimi93/Identification-of-potential-Indicators-of-Compromise-/tree/main">Wireshark Lab</a>|
 |Unmasking Adversaries: Threat Actor Profiling through MISP| <a href="https://github.com/alimi93/Threat-Actor-Profiling-through-MISP">Misp Lab</a>|
 |vulnerability-assessment-and-patch-management| <a href="https://github.com/alimi93/vulnerability-assessment-and-patch-management-/tree/main"> Lab</a>|
+|Static-and-Dynamic-Analysis-Report-of-a-Detected-Suspicious-File| <a href="https://github.com/alimi93/Static-and-Dynamic-Analysis-Report-of-a-Detected-Suspicious-File/tree/main"> Malware Lab</a>|
 
 
 ## Tools
