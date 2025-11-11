@@ -19,7 +19,7 @@ Throughout my career, I have implemented security frameworks, conducted penetrat
 |Unmasking Adversaries: Threat Actor Profiling through MISP| <a href="https://github.com/alimi93/Threat-Actor-Profiling-through-MISP">Misp Lab</a>|
 |vulnerability-assessment-and-patch-management| <a href="https://github.com/alimi93/vulnerability-assessment-and-patch-management-/tree/main"> Lab</a>|
 |Static-and-Dynamic-Analysis-Report-of-a-Detected-Suspicious-File| <a href="https://github.com/alimi93/Static-and-Dynamic-Analysis-Report-of-a-Detected-Suspicious-File/tree/main"> Malware Lab</a>|
-| Active Directory Lab                          | <a href="https://github.com/alimi93/Active-Directory-lab/tree/main">Web App Lab</a>|
+| Active Directory Lab                          | <a href="https://github.com/alimi93/Active-Directory-lab/tree/main">Lab</a>|
 
 ## Tools
 
